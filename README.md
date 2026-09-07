@@ -67,7 +67,6 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma"/>
 </a>
 
----
 
 
 
@@ -75,7 +74,7 @@
 
 ### GitHub Stats:
 
-<p align="center">
+<p >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuprakash-k45&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
