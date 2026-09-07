@@ -1,120 +1,112 @@
-# Hi 👋, I'm Bhanuprakash
-
-<h3 align="center">Frontend Developer | Python Learner | Future Full-Stack Developer 🚀</h3>
+<h1 align="center">Hi 👋, I'm Bhanuprakash</h1>
+<h3 align="center">Passionate Frontend Developer from India | Learning Full Stack & Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Learning+Python;Building+Web+Projects;Future+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=bhanuprakash-k45&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhanuprakash-k45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://instagram.com/bhanuprakash.018" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:bhanuprakashk4545@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://portfolio-five-xi-6ncm8ftpw1.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-* 🔭 Currently working on **Python Practice**
-* 🌱 Learning **Python**
-* 💡 Interested in **Full Stack Development**
-* 🎯 Goal: Become a skilled Software Developer
-* 👨‍💻 Portfolio: https://portfolio-five-xi-6ncm8ftpw1.vercel.app/
-* 📫 Email: **[bhanuprakashk4545@gmail.com](mailto:bhanuprakashk4545@gmail.com)**
+- 🔭 Currently working on **[Python-Practice](https://github.com/bhanuprakash-k45/Python-Practice)**
+- 🌱 Learning **Python** + strengthening **Frontend** skills
+- 👨‍💻 All projects → [My Portfolio](https://portfolio-five-xi-6ncm8ftpw1.vercel.app/)
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Full Stack**
+- 📫 Reach me: **bhanuprakashk4545@gmail.com**
+- ⚡ Fun Fact: Consistency beats talent when talent doesn’t work hard
 
 ---
 
-## 🌐 Connect With Me
+### 🛠️ Languages and Tools
 
 <p align="left">
-<a href="https://instagram.com/bhanuprakash.018">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-<a href="https://github.com/bhanuprakash-k45">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
 ---
 
-## 💻 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,mongodb,python,git,figma" />
-</p>
-
----
-
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhanuprakash-k45&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuprakash-k45&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhanuprakash-k45&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuprakash-k45&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
 </p>
-
----
-
-## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=bhanuprakash-k45&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuprakash-k45&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanuprakash-k45&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanuprakash-k45&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bhanuprakash-k45&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bhanuprakash-k45&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## ⭐ GitHub Overview
+### 🌟 Featured Projects
+
+| Project | Description | Tech | Live / Repo |
+|---------|-------------|------|-------------|
+| **Portfolio Website** | Personal portfolio showcasing my work | HTML, CSS, JS | [Live](https://portfolio-five-xi-6ncm8ftpw1.vercel.app/) • [Repo](https://github.com/bhanuprakash-k45/portfolio) |
+| **My Website** | Full website project with frontend + backend structure | HTML, CSS, JS, Node | [Live](https://my-website-gray-five-52.vercel.app) • [Repo](https://github.com/bhanuprakash-k45/my-website) |
+| **Python Practice** | Collection of Python programs & exercises | Python | [Repo](https://github.com/bhanuprakash-k45/Python-Practice) |
+| **Practice.c** | C language practice programs | C | [Repo](https://github.com/bhanuprakash-k45/Practice.c) |
+
+---
+
+### 🎯 Current Goals (2026)
+
+- [x] Learn Python Fundamentals  
+- [ ] Strengthen Data Structures & Algorithms  
+- [ ] Build more Full Stack projects  
+- [ ] Learn Backend (Node.js / Express)  
+- [ ] Secure a Software Developer Internship  
+
+---
+
+### 🤝 Let's Connect
+
+Feel free to reach out if you want to collaborate, discuss projects, or just say hi!
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanuprakash-k45&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding+%F0%9F%92%BB;Let's+build+something+awesome+together!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Portfolio Website
-
-Personal portfolio built using HTML, CSS, and JavaScript.
-
-### 🔹 Python Practice
-
-Collection of Python programs and exercises while learning Python.
-
-### 🔹 Full Stack Projects
-
-More exciting projects coming soon...
-
----
-
-## 🎯 2026 Goals
-
-* ✅ Learn Python Fundamentals
-* ✅ Strengthen Data Structures & Algorithms
-* 🔄 Build Full Stack Projects
-* 🔄 Learn Backend Development
-* 🎯 Secure a Software Developer Internship
-
----
-
-### ⚡ Fun Fact
-
-> "Consistency beats talent when talent doesn't work hard."
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+⭐ **Star** my repositories if you find them useful!
