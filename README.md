@@ -1,30 +1,120 @@
-<h1 align="center">Hi 👋, I'm Bhanuprakash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋, I'm Bhanuprakash
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanuprakash-k45&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuprakash-k45" /> </p>
+<h3 align="center">Frontend Developer | Python Learner | Future Full-Stack Developer 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhanuprakash-k45" alt="bhanuprakash-k45" /></a> </p>
-
-- 🔭 I’m currently working on [Python-practice](https://github.com/bhanuprakash-k45/Python-Practice)
-
-- 🌱 I’m currently learning **Python**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-five-xi-6ncm8ftpw1.vercel.app/](https://portfolio-five-xi-6ncm8ftpw1.vercel.app/)
-
-- 💬 Ask me about **Full Stack**
-
-- 📫 How to reach me **bhanuprakashk4545@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/bhanuprakash.018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhanuprakash.018" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Learning+Python;Building+Web+Projects;Future+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhanuprakash-k45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanuprakash-k45&show_icons=true&locale=en&layout=compact" alt="bhanuprakash-k45" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanuprakash-k45&show_icons=true&locale=en" alt="bhanuprakash-k45" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuprakash-k45&" alt="bhanuprakash-k45" /></p>
+* 🔭 Currently working on **Python Practice**
+* 🌱 Learning **Python**
+* 💡 Interested in **Full Stack Development**
+* 🎯 Goal: Become a skilled Software Developer
+* 👨‍💻 Portfolio: https://portfolio-five-xi-6ncm8ftpw1.vercel.app/
+* 📫 Email: **[bhanuprakashk4545@gmail.com](mailto:bhanuprakashk4545@gmail.com)**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://instagram.com/bhanuprakash.018">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://github.com/bhanuprakash-k45">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,mongodb,python,git,figma" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhanuprakash-k45&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuprakash-k45&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=bhanuprakash-k45&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanuprakash-k45&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=bhanuprakash-k45&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## ⭐ GitHub Overview
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanuprakash-k45&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Portfolio Website
+
+Personal portfolio built using HTML, CSS, and JavaScript.
+
+### 🔹 Python Practice
+
+Collection of Python programs and exercises while learning Python.
+
+### 🔹 Full Stack Projects
+
+More exciting projects coming soon...
+
+---
+
+## 🎯 2026 Goals
+
+* ✅ Learn Python Fundamentals
+* ✅ Strengthen Data Structures & Algorithms
+* 🔄 Build Full Stack Projects
+* 🔄 Learn Backend Development
+* 🎯 Secure a Software Developer Internship
+
+---
+
+### ⚡ Fun Fact
+
+> "Consistency beats talent when talent doesn't work hard."
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
