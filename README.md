@@ -1,14 +1,10 @@
 # Hi 👋, I'm Bhanuprakash
 
-### Frontend Developer from India | Currently learning Python & Full Stack
+<h3 align="center">Frontend Developer | Python Learner | Future Full-Stack Developer 🚀</h3>
 
-<br>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Learning+Python;Building+Web+Projects;Future+Full+Stack+Developer" alt="Typing SVG" /> </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bhanuprakash-k45&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhanuprakash-k45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 ### 🚀 About Me
 
