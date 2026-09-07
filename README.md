@@ -20,9 +20,7 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://instagram.com/bhanuprakash.018" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
+  <p align="left"> <a href="https://instagram.com/bhanuprakash.018"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> <a href="https://github.com/bhanuprakash-k45"> <img src="https://skillicons.dev/icons?i=github" /> </a> </p>
   &nbsp;
   <a href="mailto:bhanuprakashk4545@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
