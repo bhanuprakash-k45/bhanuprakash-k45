@@ -3,7 +3,7 @@
 
 <br>
 
-<h3 align="center">Frontend Developer | Python Learner | Future Full-Stack Developer 🚀</h3>
+<h3 align="center">Frontend Developer | Python Learner | Future Full-Stack Developer </h3>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Learning+Python;Building+Web+Projects;Future+Full+Stack+Developer" alt="Typing SVG" /> </p>
 
@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me:
 
 - 🔭 Currently working on **[Python Practice](https://github.com/bhanuprakash-k45/Python-Practice)**
 - 🌱 Learning **Python** and improving my Full Stack skills
@@ -55,27 +55,15 @@
 
 
 
-### 🔥 Contribution Streak
+### GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuprakash-k45&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanuprakash-k45&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhanuprakash-k45&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
-
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **Portfolio Website**  
 Personal portfolio built with HTML, CSS, and JavaScript.  
@@ -107,4 +95,4 @@ Collection of Python programs and exercises while learning Python.
 
 <br>
 
-⭐ Thanks for visiting my profile!
+<h3>⭐ Thanks for visiting my profile!</h3>
