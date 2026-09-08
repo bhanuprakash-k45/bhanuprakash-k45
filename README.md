@@ -74,9 +74,7 @@
 
 ### GitHub Stats:
 
-<p >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuprakash-k45&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuprakash-k45&" alt="bhanuprakash-k45" /></p>
 
 ---
 
