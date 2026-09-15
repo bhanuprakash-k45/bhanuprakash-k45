@@ -74,7 +74,9 @@
 
 ### GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuprakash-k45&" alt="bhanuprakash-k45" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhanuprakash-k45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -88,21 +90,8 @@ Personal portfolio built with HTML, CSS, and JavaScript.
 A complete website project with frontend structure.  
 → [Live Demo](https://my-website-gray-five-52.vercel.app) • [GitHub](https://github.com/bhanuprakash-k45/my-website)
 
-**Python Practice**  
-Collection of Python programs and exercises while learning Python.  
-→ [GitHub](https://github.com/bhanuprakash-k45/Python-Practice)
-
 ---
 
-### 🎯 2026 Goals
-
-- [x] Learn Python Fundamentals  
-- [x] Strengthen Data Structures & Algorithms  
-- [ ] Build Full Stack Projects  
-- [ ] Learn Backend Development  
-- [ ] Secure a Software Developer Internship  
-
----
 
 ### ⚡ Fun Fact
 
