@@ -1,6 +1,5 @@
 # Hi 👋, I'm Bhanuprakash
 
-### Frontend Developer from India | Currently learning Python & Full Stack
 
 <br>
 
@@ -52,13 +51,9 @@
 
 ---
 
-### 📊 GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanuprakash-k45&show_icons=true&locale=en&layout=compact" alt="bhanuprakash-k45" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanuprakash-k45&show_icons=true&locale=en" alt="bhanuprakash-k45" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuprakash-k45&" alt="bhanuprakash-k45" /></p>
 
-<br clear="both"/>
+
 
 ### 🔥 Contribution Streak
 
