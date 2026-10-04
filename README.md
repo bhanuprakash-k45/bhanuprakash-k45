@@ -74,12 +74,9 @@
 
 ### GitHub Stats:
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanuprakash-k45&show_icons=true&locale=en" alt="bhanuprakash-k45" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuprakash-k45&" alt="bhanuprakash-k45" /></p>
 
----
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanuprakash-k45&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ### Featured Projects
 
