@@ -3,7 +3,7 @@
 
 <br>
 
-<h3 align="center">Frontend Developer | Python Learner | Future Full-Stack Developer </h3>
+<h3 align="center">Frontend Developer | Future Full-Stack Developer </h3>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Learning+Python;Building+Web+Projects;Future+Full+Stack+Developer" alt="Typing SVG" /> </p>
 
@@ -13,7 +13,7 @@
 
 ### About Me:
 
-- 🔭 Currently working on **[Python Practice](https://github.com/bhanuprakash-k45/Python-Practice)**
+- 🔭 Currently working on **[Community Hall Booking](https://github.com/bhanuprakash-k45/PBL-Project)**
 - 🌱 Learning **Python** and improving my Full Stack skills
 - 💡 Interested in building clean and useful web applications
 - 🎯 Goal: Become a skilled Software Developer
